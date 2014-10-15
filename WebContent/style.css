@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+body { font-size: 40px; font-family: 'Courier new'; }
+table#header td { font-size: 18px;color: #4D9494; }
+textarea { font-size: 20px; }
+
+table#arrows td { font-size:60px; }
+
+table#core th { text-align: center; background: #91B5FF; }
+table#core td { font-size: 18px; text-align: left; background: #e8edff; }
+table#core td.label { text-align: right; }
+
+table#footer { text-align: center;font-size: 80%;color: #a0a0a0;padding: 20px; }
+
+table#menu { font-size: 18px; text-align: left; background: #ff9933; }
+
+table.fieldValue  th { text-align: center; background: #91B5FF; }
+table.fieldValue td { text-align: left; background: #e8edff; }
+table.fieldValue td.label { text-align: right; }
